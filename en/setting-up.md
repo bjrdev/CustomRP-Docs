@@ -33,7 +33,8 @@ If sharing with servers was disabled, don't forget to choose what servers you wa
   * **Timestamp**: A timer that counts from and/or to a specific timestamp. Displayed below Details and State as `(hh:)mm:ss`.
     * Setting both start and end timestamps in the Listening or Watching presence type will show a progress bar.
   * **Big and small images**: Images that are shown on the left side of the presence. If both are present, small image is in the bottom right corner of the big one. If only small one is present, it will show up like a big image, but will be circular instead of a rounded rectangle.
-    * **Key**: If your image is already on the internet, put the **direct link** (usually done by right clicking the image and choosing something like "Copy image link") in the field. If your image is on your PC, use any image hosting and sharing website (e.g. Imgur, ImageShack, etc). It's **not recommended** to use images sent in Discord DMs/channels, as their links get too big too quickly and they expire in 2 weeks.
+    * **Key**: If your image is already on the internet, put the **direct link** (usually done by right clicking the image and choosing something like "Copy image link") in the field. If your image is on your PC, use any image hosting and sharing website (e.g. Imgur, ImageShack, etc). Supported formats: jp(e)g, png, webp, gif.
+      * It's **not recommended** to use images sent in Discord DMs/channels, as their links get too big too quickly and they expire in 2 weeks.
       * If after connecting you get stuck on "Updating presence...", chances are the URL you've put was too long or was not a direct URL. If you're sure it's a direct one, use a URL shortner.
     * **Text**: A text that appears when you hover over (or long tap on mobile) the image.
     * **URL**: A link that will open when user clicks on the image.
